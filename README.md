@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p>
+  What are you intensely curious about? Following one's curiosity
+  is the golden path to developing something impactful in the
+  world. This is how the best startups start and where new
+  inventions arise. Global progress is limited to the ambition of
+  the most ambitious. If you're an ambitious person who has been
+  itching to explore a space or project out of curiosity, Hacker
+  Hub is for you.
+</p>
+<p>
+  Have you always wanted to make a robotic chef? How about an AI
+  that places you in Avengers or Inside Out? We meet up weekly to
+  work on our ideas and give feedback. If you want to build a
+  product and get users, awesome, we'll help. If you wish to
+  explore Black Holes, that's equally as awesome. We'll bring in
+  speakers, give tactical feedback on ideas, provide a space to
+  demo your work and expose you to grants and funding
+  opportunities. With more traction, we'll also provide hardware
+  like arduinos and vr headsets.
+</p>
+<p>
+  This club is not for everyone. It's for those who feel school is
+  not enough for their ambition and want to be pushed to make
+  great things. If you've felt tired of solely focusing on grades
+  and feel you can do so much more outside of a classroom, come
+  join us, you're a rare group of people.
+</p>
+<p>Inspired by PG's <a href="https://paulgraham.com/greatwork.html">how to do great work</a></p>
