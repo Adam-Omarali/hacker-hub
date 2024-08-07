@@ -25,3 +25,4 @@
   and feel you can do so much more outside of a classroom, come
   join us, you're a rare group of people.
 </p>
+<p>Inspired by PG's <a href="https://paulgraham.com/greatwork.html">how to do great work</a></p>
