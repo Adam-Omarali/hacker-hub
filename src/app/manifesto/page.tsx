@@ -37,21 +37,21 @@ export default function Home() {
                 like arduinos and vr headsets.
               </p>
               <p>
-                This club is for those who feel school is not enough for their
-                ambition and want to be pushed to make great things. If you've
-                felt tired of solely focusing on grades and feel you can do so
-                much more outside of a classroom, come join us, you're a rare
-                group of people.
+                This club is not for everyone. It's for those who feel school is
+                not enough for their ambition and want to be pushed to make
+                great things. If you've felt tired of solely focusing on grades
+                and feel you can do so much more outside of a classroom, come
+                join us, you're a rare group of people.
               </p>
             </div>
             <div className="py-6 flex justify-center items-center">
-              <Link href="/signup/mailing">
+              <Link href="/signup">
                 <HoverBorderGradient
                   containerClassName="rounded-full"
                   as="button"
                   className="dark:bg-black bg-white text-black dark:text-white flex items-center space-x-2"
                 >
-                  <span>Mailing List</span>
+                  <span>Sign Up</span>
                 </HoverBorderGradient>
               </Link>
             </div>
